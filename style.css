@@ -1,0 +1,59 @@
+body {
+  background-color: rgb(36, 36, 92);
+}
+
+h1 {
+  color: bisque;
+}
+
+p {
+  color: gray;
+}
+
+h3 {
+  color: gray;
+}
+
+b {
+  color: gray;
+}
+
+#desc {
+  color: gray;
+}
+
+#desc2 {
+  color: gray;
+}
+
+#desc3 {
+  color: gray;
+}
+
+ul.a {
+  list-style-image: url("./assets/image-148.png");
+}
+
+i {
+  color: gray;
+}
+
+a:active {
+  color: greenyellow;
+}
+
+a:hover {
+  color: green;
+}
+
+a {
+  color: gray;
+}
+
+hr {
+  color: pink;
+}
+
+ol.b {
+  list-style-image: url("./assets/Image\ 20.jpg");
+}
